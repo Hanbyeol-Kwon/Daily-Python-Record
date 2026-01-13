@@ -13,7 +13,11 @@ Pandas 실습 진행, ML, xml, xlsl, pandas, numpy etc.
 - 02.crawling_urllib (requests / urllib-urlopen / BeautifulSoup)
 - 03.crawling_excel
 
-[260112 TUE] 학습 내용: openAPI 학습할 예정
-- crawling_project 진행 예정
+[260113 TUE] 학습 내용: 03.crawling_excel 이어서
+- RPA 고급 개발 및 연계 자동화
+- 파이썬 문자열 처리 함수
+- 크롤링 데이터 전처리
+- 정규표현식(마스터 하기 목표)
+- 크롤링과 엑셀 RPA 자동화
 
 본 자료는 '심화_생성형 AI와 AWS 클라우드를 활용한 풀스택 & 자동화 실무 개발'_이젠컴퓨터아카데미 강의를 수강하며 학습한 내용을 바탕으로 직접 실습하고 재구성한 자료입니다.
