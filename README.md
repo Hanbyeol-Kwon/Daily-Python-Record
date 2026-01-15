@@ -26,6 +26,13 @@ Pandas 실습 진행, ML, xml, xlsl, pandas, numpy etc.
 - 파이썬으로 다루는 MySQL
 
 [260115 THU] 학습 내용:
+- NoSQL 데이터베이스 이해
+- MongoDB 문법 이해
+- MongoDB Aggregation 기본 문법 이해
+- Python과 MongoDB 연계 (pymongo기반, 크롤링 연계 코드)
+- MongoDB를 다루는 문법을 조합하는 연습
+
+[260116 FRI] 학습 내용:
 
 
 본 자료는 '심화_생성형 AI와 AWS 클라우드를 활용한 풀스택 & 자동화 실무 개발'_이젠컴퓨터아카데미 강의를 수강하며 학습한 내용을 바탕으로 직접 실습하고 재구성한 자료입니다.
