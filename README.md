@@ -33,6 +33,12 @@ Pandas 실습 진행, ML, xml, xlsl, pandas, numpy etc.
 - MongoDB를 다루는 문법을 조합하는 연습
 
 [260116 FRI] 학습 내용:
-
+- 데이터베이스 엔지니어링
+- 파이썬과 MongoDB 연결
+- 파이썬에서 MongoDB find()명령 사용
+- 파이썬에서 MongoDB aggreagte()명령 사용
+- MongoDB 복합 쿼리 사용
+- MongoDB 인덱스 기본 문법
+- 파이썬 크롤링 수집 결과를 MongoDB에 저장
 
 본 자료는 '심화_생성형 AI와 AWS 클라우드를 활용한 풀스택 & 자동화 실무 개발'_이젠컴퓨터아카데미 강의를 수강하며 학습한 내용을 바탕으로 직접 실습하고 재구성한 자료입니다.
